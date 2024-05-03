@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70627812915",
+    "project_id": "gpsrealtimedata",
+    "storage_bucket": "gpsrealtimedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70627812915:android:cbdb12259592d9fdc4e546",
+        "android_client_info": {
+          "package_name": "com.example.crowdsense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdmp-P3CMSwIXWhr8P2cBmp3YRK_CQCYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
